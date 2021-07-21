@@ -1,0 +1,2 @@
+This is the sample text file
+all of this text should be visible
